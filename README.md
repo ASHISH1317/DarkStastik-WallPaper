@@ -1,6 +1,11 @@
 # dark_stastic
 
 A new Flutter project.
+#  API
+Pixels.com API integration
+# Mistakes
+Image_galary_saver package didn't work because , 
+flutter dart new version didn't support , flutter remove image_galary_saver package.
 
 ## Getting Started
 
